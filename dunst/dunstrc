@@ -66,3 +66,4 @@
     frame_color = "#F38BA8"
     timeout = -1
     format = "<b>%s</b>\n%b"
+
